@@ -41,4 +41,4 @@ This profile contains course materials and projects:
 ## Let's Connect!
 I'm looking for **internship opportunities** and **collaboration** on interesting projects at the intersection of embedded systems, power systems, and biomedical applications. If you have an idea or opportunity that combines creativity with hardware/software integration, I'd love to hear from you!
 
-Connect with me on [LinkedIn](www.linkedin.com/in/claresta-cheung-720887284) | [Email](clarestacheung@gmail.com)
+Connect with me on LinkedIn (www.linkedin.com/in/claresta-cheung-720887284) | Email (clarestacheung@gmail.com)
